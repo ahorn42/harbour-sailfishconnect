@@ -1,0 +1,28 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "ahorn"
+            }
+        ],
+        "Description": "Show your text messages on your computer",
+        "Description[de]": "Textnachrichten am Computer anzeigen",
+        "EnabledByDefault": true,
+        "Icon": null,
+        "Id": "sailfishconnect_sms",
+        "License": "GPLv3",
+        "Name": "Text messages",
+        "Name[de]": "Textnachrichten",
+        "ServiceTypes": [
+            "KdeConnect/Plugin"
+        ],
+        "Version": "0.1"
+    },
+    "X-KdeConnect-OutgoingPacketType": [
+        "kdeconnect.sms.messages"
+    ],
+    "X-KdeConnect-SupportedPacketType": [
+        "kdeconnect.sms.request_conversations",
+        "kdeconnect.sms.request_conversation"
+    ]
+}

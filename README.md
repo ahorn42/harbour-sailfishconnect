@@ -50,7 +50,7 @@ SendNotifications | :construction: | Share notifications of your phone.
 RunCommand | :heavy_check_mark: | Run user-defined commands on your computer.
 RemoteCommands | :heavy_check_mark: | Let user-defined commands run on your phone.
 RemoteSystemVolume | :heavy_check_mark: | :sound: Control system volume of your computer.
-SMS | :o: | :speech_balloon: Send SMS messages and read SMS history from your computer.
+SMS | :construction: | :speech_balloon: Read SMS history on your computer (sending is missing).
 Contacts | :o: | :busts_in_silhouette: Share contacts with your computer.
 Sftp | :o: | :open_file_folder: Provide access to local files from your computer.
 FindThisDevice | :o: | :vibration_mode: Make finding your phone easier.

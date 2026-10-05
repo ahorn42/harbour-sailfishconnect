@@ -38,6 +38,7 @@ add_static_plugins_lib(
     MprisRemote
     SendNotifications
     Share
+    Sms
 #    Telepathy
     Telephony
     SftpServer
